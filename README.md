@@ -43,13 +43,13 @@ print(monty_python.gif)
 ### 🛠 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=debian,linux,py,flask,git,github,vscode,pycharm,replit)](https://skillicons.dev)
 
-<!-- Top Languages -->
+<!-- Top Languages 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakiScript&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Taki's top languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiscript&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Taki's top languages" />
+</p> 
 
+-->
 
-<!-- 
 ### 🌐 Connect with Me:
 
 <p>
@@ -63,4 +63,3 @@ print(monty_python.gif)
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" />
   </a>
 </p>
--->
