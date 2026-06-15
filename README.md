@@ -1,12 +1,12 @@
-<h2 style="margin-bottom: 5px;">Hello, I'm Taki
+<h2 style="margin-bottom: 5px;">Hello, I'm Reiz
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h2>
 
 I’m an enthusiastic developer and community builder. Feel free to connect!
 
-- ✉️ **Email:** [takiscript@gmail.com](mailto:takiscript@gmail.com)  
-- 💬 **Discord:** [TakiScript](https://discord.com/users/754676438099034142) 
-- 🌐 **Website / Portfolio:** [takiscript.ai](https://takiscript.github.io) 
+- ✉️ **Email:** [reizscript@gmail.com](mailto:reizscript@gmail.com)  
+- 💬 **Discord:** [reizscript](https://discord.com/users/754676438099034142) 
+- 🌐 **Website / Portfolio:** [reizscript.ai](https://reizscript.github.io) 
 
 ---
 
