@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h1>
 
----
-
 - ✉️ **Email:** [reizscript@gmail.com](mailto:reizscript@gmail.com)  
 - 💬 **Discord:** [reizscript](https://discord.com/users/754676438099034142) 
 - 🌐 **Website / Portfolio:** [reizscript.ai](https://reizscript.github.io) 
