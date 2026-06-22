@@ -1,6 +1,9 @@
 <h1 style="margin-bottom: 5px;">Hello, world! 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h1>
+<p style="margin-top: 0; font-size: 15px; color: #dbeafe; letter-spacing: 0.4px;">
+  🌌 Writing small lines for infinite skies.
+</p>
 
 - ✉️ **Email:** [reizscript@gmail.com](mailto:reizscript@gmail.com)  
 - 💬 **Discord:** [reizscript](https://discord.com/users/754676438099034142) 
